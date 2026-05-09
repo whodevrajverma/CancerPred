@@ -3,7 +3,7 @@
 **CancerPred** is a specialized computational resource developed for the identification and analysis of CancerPreds—lectins that play significant roles in tumor cell differentiation,
 cell-cell interaction, and metastasis. This platform provides the first computational method to distinguish CancerPreds from a large pool of non-cancer-related lectins using evolutionary and domain information.
 
-**Web Server:** [http://webs.iiitd.edu.in/raghava/CancerPred/](https://www.google.com/search?q=http://webs.iiitd.edu.in/raghava/CancerPred/)
+**Web Server:** https://webs.iiitd.edu.in/raghava/cancer_pred/
 
 
 ## Citation
